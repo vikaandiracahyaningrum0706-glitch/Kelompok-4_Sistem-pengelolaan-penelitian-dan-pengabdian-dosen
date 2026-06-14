@@ -3,10 +3,10 @@
 **Mata Kuliah:** Sistem Basis Data  
 **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs
 **Anggota:** 
-1. Vika Andira (2501020112) -  
-2. Hanna Windah Nurlila (2501020096) - 
-3. Hanifah Luthfia (2501020099) -
-4. Mujianti Pratiwi (2501020089) -
+1. Vika Andira (2501020112) -  Penyusunan dokumen studi kasus, dokumentasi GitHub, dan kompilasi laporan progress
+2. Hanna Windah Nurlila (2501020096) - Koordinator kelompok; analisis kebutuhan sistem (aktor, proses bisnis) & penyusunan latar belakang-tujuan
+3. Hanifah Luthfia (2501020099) - Pembuatan diagram use case & flowchart proses
+4. Mujianti Pratiwi (2501020089) - Identifikasi kebutuhan fungsional & kebutuhan data
 
 ## Studi Kasus: Sistem Pengelolaan dan Pengabdian Dosen
 Sistem Pengelolaan Penelitian dan Pengabdian kepada Masyarakat Dosen merupakan sebuah sistem basis data yang dirancang untuk membantu proses pengelolaan seluruh data penelitian dan pengabdian dosen secara terintegrasi. Sistem ini digunakan untuk mendukung proses pengajuan usulan kegiatan, pengelolaan anggota tim, pencatatan perkembangan kegiatan, pengunggahan laporan, pendokumentasian luaran kegiatan, serta penyusunan laporan rekapitulasi yang dibutuhkan oleh pihak perguruan tinggi.
