@@ -11,7 +11,7 @@
 ## Studi Kasus: Sistem Pengelolaan dan Pengabdian Dosen
 
 ## Link Pengumpulan Progres:
-- [x] Progres 1: [Link folder/file Progres 1]
+- [x] Progres 1: [PjBL SBD progress 1]
 - [ ] Progres 2: (Akan diupdate)
 - [ ] Progres 3: (Akan diupdate)
 - [ ] Progres 4: (Akan diupdate)
