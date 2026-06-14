@@ -3,7 +3,7 @@
 **Mata Kuliah:** Sistem Basis Data  
 **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs
 **Anggota:** 
-1. Vika Andira - Peran (2501020112): 
+1. Vika Andira (2501020112) -  
 2. Hanna Windah Nurlila (2501020096) - 
 3. Hanifah Luthfia (2501020099) -
 4. Mujianti Pratiwi (2501020089) -
