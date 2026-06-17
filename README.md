@@ -2,7 +2,8 @@
 # PjBL Sistem Basis Data - Kelompok [4]
 **Mata Kuliah:** Sistem Basis Data  
 **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs
-**Anggota:** ...
+==========================================
+**Anggota:** 
 1. Vika Andira (2501020112) -  Penyusunan dokumen studi kasus, dokumentasi GitHub, dan kompilasi laporan progress
 2. Hanna Winda Nurilla (2501020096) - Koordinator kelompok; analisis kebutuhan sistem (aktor, proses bisnis) & penyusunan latar belakang-tujuan
 3. Hanifah Luthfia (2501020099) - Pembuatan diagram use case & flowchart proses
