@@ -26,6 +26,6 @@ Tujuan yang ingin dicapai dalam Project Based Learning (PjBL) ini adalah sebagai
 
 ## Link Pengumpulan Progres:
 - [x] Progres 1: [(https://github.com/vikaandiracahyaningrum0706-glitch/Kelompok-4_Sistem-pengelolaan-penelitian-dan-pengabdian-dosen/tree/main/PjBL%20SBD%20progress%201)]
-- [ ] Progres 2: (https://github.com/vikaandiracahyaningrum0706-glitch/Kelompok-4_Sistem-pengelolaan-penelitian-dan-pengabdian-dosen/tree/main/PjBL%20SBD%20progress%202)
+- [x] Progres 2: (https://github.com/vikaandiracahyaningrum0706-glitch/Kelompok-4_Sistem-pengelolaan-penelitian-dan-pengabdian-dosen/tree/main/PjBL%20SBD%20progress%202)
 - [ ] Progres 3: (Akan diupdate)
 - [ ] Progres 4: (Akan diupdate)
